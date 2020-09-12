@@ -7,6 +7,8 @@ import { Component, OnInit } from '@angular/core';
 })
 export class CoursepageComponent implements OnInit {
 
+  courseImg="../assets/images/course.jpg"
+  
   constructor() { }
 
   ngOnInit(): void {
