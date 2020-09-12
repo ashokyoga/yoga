@@ -1,0 +1,15 @@
+
+
+.logo{
+  flex : 1 30% ;   
+}
+.headerText{
+  flex : 2 70%
+}
+
+.header-image {
+  background-image: url('src\assets\images\logonew.jpg');
+  background-size : contain;   
+ }
+
+ 
