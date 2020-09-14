@@ -2,3 +2,29 @@
     width: 100%;
     height: auto;
   }
+
+.space{
+  flex : 1 15% ;   
+  align-content: flex-end; 
+  }
+  
+.homeImg{
+  flex : 2 20% ;   
+  align-content: flex-end; 
+ }
+.homeText{
+  flex : 3 65%
+}
+
+.home-image {
+  background-image: url('src\assets\images\GuruPhoto.jpg');
+  background-size : contain; 
+ }
+
+ .profile{
+  background-color: goldenrod; 
+  margin: 2;
+  padding: 2;
+  font-size: 15px;
+ }
+ 
