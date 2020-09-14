@@ -3,11 +3,13 @@
     height: auto;
   }
 
-
+  
 .homeImg{
   flex : 1 20% ;   
-  align-content: flex-end; 
+
  }
+
+
 .homeText{
   flex : 2 80%
 }

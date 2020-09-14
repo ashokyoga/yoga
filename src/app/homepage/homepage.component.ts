@@ -8,6 +8,7 @@ import { Component, OnInit } from '@angular/core';
 export class HomepageComponent implements OnInit {
 
   homeImg="../assets/images/home.jpg"
+  authorName = "Yoga Rathna Dr.A.S.Ashok Kumar, Ph.D.,(Y.Sc)"
   
   constructor() { }
 
