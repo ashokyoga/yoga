@@ -8,12 +8,9 @@
 }
 
 .header-image {
-  background-image: url('src\assets\images\headerlogo.jpg');
+  background-image: url('src\assets\images\header1.jpg');
   background-size : contain;   
-  background-repeat: no-repeat;
-  ;
-  width: 16%;
- 
+  background-repeat: no-repeat;  
  }
 
  .responsive {
