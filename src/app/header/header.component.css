@@ -1,15 +1,19 @@
 
 
 .logo{
-  flex : 1 30% ;   
+  flex : 1 35% ;   
 }
 .headerText{
-  flex : 2 70%
+  flex : 2 65%
 }
 
 .header-image {
-  background-image: url('src\assets\images\header1.jpg');
+  background-image: url('src\assets\images\headerlogo.jpg');
   background-size : contain;   
+  background-repeat: no-repeat;
+  ;
+  width: 16%;
+ 
  }
 
  .responsive {
