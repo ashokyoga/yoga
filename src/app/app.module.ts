@@ -11,6 +11,7 @@ import {MatToolbarModule} from '@angular/material/toolbar';
 import { HomepageComponent } from './homepage/homepage.component';
 import { CoursepageComponent } from './coursepage/coursepage.component';
 import { ContactusComponent } from './contactus/contactus.component';
+import { GalleryComponent } from './gallery/gallery.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +19,8 @@ import { ContactusComponent } from './contactus/contactus.component';
     HeaderComponent,
     HomepageComponent,
     CoursepageComponent,
-    ContactusComponent
+    ContactusComponent,
+    GalleryComponent
   ],
   imports: [
     BrowserModule,
